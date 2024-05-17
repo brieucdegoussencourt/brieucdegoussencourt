@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brieucdegoussencourt
+- 👋 Hi
 - 👀 I’m interested in Arts, Wilderness & Coding !
 - 🌱 I’m currently learning @ beCode to become a Full Stack Developer
 - 💞️ I’m looking to collaborate on meaningfull projects related to energy efficiency and sustainable development. 
